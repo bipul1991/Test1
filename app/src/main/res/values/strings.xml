@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GitTest</string>
+    <string name="facebook_app_id">504206943284988</string>
+    <string name="fb_login_protocol_scheme">fb504206943284988</string>
 </resources>
